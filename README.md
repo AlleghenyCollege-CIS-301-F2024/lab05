@@ -50,11 +50,11 @@ For this work, you are to complete the following steps in your code.
 
 Please address the file, `writing/reflection.md`.
 
-### Important Details
+---
+
+## Important Details
 
 All of your R code should be executable without errors. Please remember to include your name on everything you submit for the class.
-
----
 
 ### Required Deliverables
 
